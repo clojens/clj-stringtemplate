@@ -1,0 +1,15 @@
+-*- markdown -*-
+
+# Changes and TODO
+
+## 0.2 / 2010-Sep-?? (GMT+5:30)
+
+- Create new view template: empty or with supplied template string
+- Reset view template with supplied template string
+
+## 0.1 / 2010-Sep-04 (GMT+5:30)
+
+- Load view templates from classpath and directory
+- Populate view templates with attribute values
+- Render view templates as java.lang.String
+- Transform keyword-keys/value map to string-keys/value map
